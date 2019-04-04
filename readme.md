@@ -22,13 +22,13 @@ Setting Up
 ----------
 
 Open the project from Katalon Studio
-and Execute a Test Suite 
+and Execute a Test Case or Test Suite
 
 
 
 
 
-![katalon](https://gitlab./Images/Readme.png "Let's Start with Katalon")
+![katalon](https://github.com/MIRNEsAA/Homework_MH/blob/master/Homework.png "Let's Start with Katalon")
 
 
 				Image_1.TestSuite_Execution
