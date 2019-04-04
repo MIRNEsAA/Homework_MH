@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check and verify displayed details.</description>
+   <name>Test_Case_To_Be_Checked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd3550e0-6f03-407c-8f54-55713aefd657</testCaseGuid>
+</TestCaseEntity>
